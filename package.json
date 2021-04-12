@@ -8,7 +8,9 @@
   },
   "keywords": [
     "node",
-    "npm"
+    "npm",
+    "jdoodle",
+    "axios"
   ],
   "author": "Abhiram Pai",
   "license": "ISC",
